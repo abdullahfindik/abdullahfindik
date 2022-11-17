@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3o7TKKxPt2DhOdqeSQ/giphy.gif" align="right" width="250">
+<img src="https://media.giphy.com/media/3o7TKKxPt2DhOdqeSQ/giphy.gif" align="right" width="300" height="200">
 
 
 ## Hi there, I'm Abdullah :smile:
