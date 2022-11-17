@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/3o7TKKxPt2DhOdqeSQ/giphy.gif" align="right" width="300">
 
 
-## Hi there, I'm Abdullah :smile:
+## Hi there, I'm Abdullah :fallen_leaf:
 
 - I'm interested in Front-End Development
 - I'm currently learning JavaScript
