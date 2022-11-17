@@ -24,6 +24,7 @@
 
 
 ---
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=abdullahfindik&theme=radical" align="left" width="54%">
 
