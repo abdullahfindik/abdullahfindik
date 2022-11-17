@@ -24,9 +24,9 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahfindik&theme=radical" align="left" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=abdullahfindik&theme=radical" align="left" width="55%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfindik&theme=radical" align="right" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfindik&theme=radical" align="right" width="40%">
 
 [linkedin]: https://www.linkedin.com/in/abdullahfindik/
 [email]: abdullahfndk11@gmail.com
