@@ -8,8 +8,8 @@
 
 ### Reach out to me
 
-[<img height="32" width="32" style="color:red" align="left" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" />][email]
+[<img height="32" width="32" align="left" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
+[<img height="32" width="32" align="left" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" />][email]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/hackerrank.svg" />][hackerrank]
 ---
 
