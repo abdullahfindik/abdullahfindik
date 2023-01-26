@@ -1,7 +1,6 @@
-<<<<<<< Updated upstream
-=======
+
 <img src="https://media.giphy.com/media/3o7TKKxPt2DhOdqeSQ/giphy.gif" align="right" width="340" height="195">
->>>>>>> Stashed changes
+
 
 
 ## Hi there, I'm Abdullah :fallen_leaf:
@@ -27,13 +26,10 @@
 
 ---
 
-<<<<<<< Updated upstream
-=======
 <img src="https://github-readme-stats.vercel.app/api?username=abdullahfindik&theme=radical" align="right" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfindik&theme=radical" align="left" width="40%">
 
->>>>>>> Stashed changes
 [linkedin]: https://www.linkedin.com/in/abdullahfindik/
 [email]: abdullahfndk11@gmail.com
 [hackerrank]: https://www.hackerrank.com/abdullahfindikk
