@@ -24,10 +24,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahfindik&theme=radical" align="left" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfindik&theme=radical" align="right" width="45%" height="250">
-
 [linkedin]: https://www.linkedin.com/in/abdullahfindik/
 [email]: abdullahfndk11@gmail.com
 [hackerrank]: https://www.hackerrank.com/abdullahfindikk
