@@ -1,8 +1,3 @@
-
-<img src="https://media.giphy.com/media/3o7TKKxPt2DhOdqeSQ/giphy.gif" align="right" width="340" height="195">
-
-
-
 ## Hi there, I'm Abdullah :fallen_leaf:
 
 - I'm interested in Front-End Development
